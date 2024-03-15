@@ -1,0 +1,19 @@
+{
+  "name": "GPT-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/euije/GPT-playground.git",
+  "author": "Lee Euije <exitfill1234@naver.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^4.29.0"
+  },
+  "packageManager": "yarn@1.22.19",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
